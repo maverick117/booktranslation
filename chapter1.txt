@@ -1,5 +1,16 @@
 Chapter 1 The History of Computers
 
+	Our future lies in our past. If we were to explore the development of an object, the best way would be to learn from its history.
+	The term "Computer Software" has only been around for a few decades. During these years, computer software has evolved from hardware dependent instructions to code which is portable and platform independent, and in recent years we have seen the boom in web apps in many public fields and markets. To date, software has went through many iterations. The underlying factors in the rapid development of computer software are the experience gained in the decades of using computers and the knowledge and methods gained in centuries of developing computational skills as well as the evolution of humanity itself, just as Figure 1-1 has shown. This is how we've been able to achieve rapid progress in software development and evolution, which contributes to the formation of the culture of computers and computer software.
+	If we were to dive deeper into the characteristics and progressions of software in its various ages, further understand the origins of software and software culture, we would need to discuss the history involved, for which we would have to trace back to the roots of the history of computation of to understand the bond between computers and humanity.
+	You would probably see history as either boring and tedious or fascinating and educative. But no matter which one it is, let us start our journey down the line of history of computation and computers, and explore the reasons behind needs of humanity for computers.
+	This chapter divides the ages of computers based on the most popular method used by scholars worldwide, and will attempt to demonstrate it clearly to the reader.
+
+1.1 From Fingers to Computers
+	Computers have played an important role in the continued development of human civilization.
+	From the early ages of wisdom, computation has been a major issue for the society. Whether if it's   
+
+
 1.3 Computer External Equipment
 	Along with the booming of computer, in order to make more people use computers more conveniently in daily life, to faciliate computers and human interactions, to realize more functions, many external equipments adherence to computers come into being as well.
 	The computer people used ordinarily, are equipped with basic configurations keyboard, mouse, computer monitors, mainframe and various USB flash drives as external storage to store huge volumes of data for us. Multimedia devices like speakers, sound card  
