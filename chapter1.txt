@@ -65,6 +65,8 @@ EDVAC:
 3. EDVAC	John von Neumann was a Hungarian-American pure and applied mathematician, physicist, inventor, polymath, and polyglot.He was born in Budapest, in October 1903. He was an extraordinary child prodigy in the areas of language, memorization, and mathematics. As a 6-year-old, he could divide two 8-digit numbers in his head. By the age of 8, he was familiar with differential and integral calculus. He received his Ph.D. in mathematics in Budapest at the age of 22 and simultaneously earned a diploma in chemical engineering in Switzerland. After that，he arrived in the United States, and in 1931 he became the first tenured professor at Princeton university.In 1944, John von Neumann met a lot of computational problems in the first atomic bomb research work in the United States. Thus, he joined in the ENIAC research team. In the process of research, he discovered the ENIAC shortcomings of the project, and tried to improved them. At the end of June, 1945, he wrote the draft plan of EDVAC. This plan provided a good conditions to improve the computing speed.
 
 
+
+
 1.3 Computer External Equipment
 00	Along with the booming of computer, in order to make more people use computers more conveniently in daily life, to faciliate computers and human interactions, to realize more functions, many external equipments adherence to computers come into being as well.
 	The computer people used ordinarily, are equipped with basic configurations keyboard, mouse, computer monitors, mainframe and various USB flash drives as external storage to store huge volumes of data for us. Multimedia devices like speakers, sound card  
