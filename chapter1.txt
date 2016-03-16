@@ -1,2 +1,10 @@
 Chapter 1 The History of Computers
 
+1.3 Computer External Equipment
+	Along with the booming of computer, in order to make more people use computers more conveniently in daily life, to faciliate computers and human interactions, to realize more functions, many external equipments adherence to computers come into being as well.
+	The computer people used ordinarily, are equipped with basic configurations keyboard, mouse, computer monitors, mainframe and various USB flash drives as external storage to store huge volumes of data for us. Multimedia devices like speakers, sound card  
+bring us rich and colorful enjoyment of multimedia. Network devices such as network card (network interface controller) and router bring us into the world of internet…… A great many computer external equipment make our life even better. However, these are unimaginable back to the time first computer being produced. It is inline with the trend of history, comply with the development of computer culture, dose these configurations develop together and become a inseparable part of computers, imperceptibly popularize in people’s life. 
+	Following we categorize them and introduce their own process of development in order.
+1.3.1 Input Device
+	
+	
