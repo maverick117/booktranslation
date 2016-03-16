@@ -35,7 +35,21 @@
 	But after the invention and improvement of the steam engine, our society progressed into the first industrial revolution, numerous inventions of machinery origin were introduced, and the slide rule was gradually replaced with other machinery, and was gradually phased out of daily use. During this period, it was trendy to try to use machine power to replace manual labor. It is also true with computational tools. People began to invent machines which could handle different functions.
 1.1.2 The Mechanical Age
 	Human society progressed into the mechanical age after the first industrial revolution. In this period of time people started to search for ways of letting machines replace manual labor in order to improve the quality of living. It was also in this period of time that many acute inventors sensed the possibility of using gears, plates, wheels, shafts, bolts and levers, and other mechanical parts to construct a machine capable of conducting mathematical operations, thus forming a mechanical calculator.
-	During this period of time many outstanding tools were introduced, from the 
+	During this period of time many outstanding tools were introduced, from the first Pascal calculators to the Thomas quadoperation calculator, mechanical calculators have become smaller, more robust and convenient, and gradually was able to solve addition, subtraction, multiplication, and division, and even getting the square root of a number.
+	The invention of manual calculators combined machinery and calculation.
+1. Manual Calculators
+	The first Manual Calculator was introduced by the French philosopher and mathematician Blaise Pascal in Paris, 1642. But the first truly mechanical calculator, the adder Pascaline, was the predecessor of manual calculators. It could do addition and subtraction. Pascal invented the machine to help his father with the calculation on taxes. With the help of missionaries, several manual calculators were made during the Kangxi period in Qing Dynasty.
+	But before explaining the workings behind the manual calculator, let's take a look at Pascal's personal experience. He was born in a French mathematician's family in 1623. His mother passed away when he was three, and was brought up by his father who was a tax official. He expressed interest in science and research very early in his life.
+	Young Pascal was revered his father. He watched as his father calculated taxes with difficulty and hoped to make a machine to relieve his father of the tedious manual labor. So at the age of 19, he invented the first mechanical calculator in history, which was an adder, shown in Figure 1-4. This adder had six wheels which represented one, ten, hundred, thousand, ten thousand and hundred thousand. He would only have to turn the wheel clockwise to conduct addition, while turning the wheel in the opposite direction would conduct subtraction.
+
+
+
+
+
+
+
+
+
 
 
 1.3 Computer External Equipment
